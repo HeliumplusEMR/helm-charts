@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helium:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-28T09:17:58.915788284Z"
+    description: A Helm chart for Kubernetes
+    digest: c57697b13ffc6939411933ee2ca45c448ed39c0f0c6cef5f6ae21608be431352
+    name: helium
+    type: application
+    urls:
+    - https://github.com/HeliumplusEMR/helm-charts/releases/download/helium-0.1.0/helium-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-28T09:17:58.915794184Z"
